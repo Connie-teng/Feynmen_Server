@@ -1,3 +1,7 @@
+pip>=24.2
+setuptools>=70
+wheel>=0.43
+build>=1.2
 flask
 openai
 requests
@@ -10,3 +14,5 @@ soundfile==0.12.1
 numpy==1.24.3
 flask_cors
 cloudinary
+
+
