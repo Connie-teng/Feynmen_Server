@@ -11,8 +11,9 @@ pymysql
 elevenlabs==0.2.27 
 noisereduce==3.0.3
 soundfile==0.12.1
-numpy==1.24.3
+numpy
 flask_cors
 cloudinary
+
 
 
