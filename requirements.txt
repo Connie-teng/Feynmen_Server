@@ -1,0 +1,12 @@
+flask
+openai
+requests
+python-dotenv
+gunicorn
+pymysql
+elevenlabs==0.2.27 
+noisereduce==3.0.3
+soundfile==0.12.1
+numpy==1.24.3
+flask_cors
+cloudinary
